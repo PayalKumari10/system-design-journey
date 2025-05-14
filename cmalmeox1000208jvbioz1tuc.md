@@ -17,15 +17,13 @@ tags: developer, system-design, dsa, techblog, technical-writing-1, lld, coderar
 
 ---
 
-* ## 💠**What is System Design ?**
-    
+## 💠**What is System Design ?**
 
 **System Design** refers to the process of designing day-to-day tech-based systems that power our applications and services.
 
 (Hindi: "System Design" ka matlab hai roz ke technology-based systems ko design karna, jo hamare applications aur services ko chalaate hain.)
 
-* ## 💠What is LLD ?
-    
+## 💠What is LLD ?
 
 **LLD (Low-Level Design)** involves taking various concepts from data structures and algorithms (DSA) to build the complete structure of an application. It focuses on the detailed implementation, including how each component interacts and functions.
 
@@ -33,16 +31,16 @@ tags: developer, system-design, dsa, techblog, technical-writing-1, lld, coderar
 
 [![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747078210265/245c6400-12cb-46d5-9d83-d4f3654f3bee.png align="center")](https://www.linkedin.com/in/payalkumari10/)
 
-* ## **💡 A Real-World Example:**
+* ## **💠 A Real-World Example:**
     
 
 ### 👬 Meet Anmol and Ritesh
 
 Two college friends, **Anmol** and **Ritesh**, just graduated and joined tech companies as software developers. Both are smart and hardworking, but there’s a small difference:
 
-* 📘 **Anmol** has good **DSA knowledge**, but no exposure to LLD.
+* **Anmol** has good **DSA knowledge**, but no exposure to LLD.
     
-* 🧠 **Ritesh** knows both **DSA** and **LLD**.
+* **Ritesh** knows both **DSA** and **LLD**.
     
 
 ### 🚗 The Task: Build a “Quick Ride” App (like Ola/Uber)
@@ -118,8 +116,10 @@ And **only after this**, he uses DSA where needed: for queuing, pathfinding, etc
 
 ### 🧠 Moral of the Story
 
-> ✅ **DSA helps you write efficient code.**  
-> ✅ **LLD helps you think like a software engineer.**
+> * **DSA helps you write efficient code.**  
+>     
+> * **LLD helps you think like a software engineer.**
+>     
 
 In the real world, **systems aren't built with just algorithms**. You need to know:
 
@@ -136,8 +136,7 @@ So always try to go from **LLD → DSA**, not the other way around.
 
 ---
 
-* ## 💠LLD (Low Level Design) - Key Concepts
-    
+## 💠LLD (Low Level Design) - Key Concepts
 
 1. **Scalability (No. of Users Sustains) : -**  
     LLD helps ensure that your system can handle more users without crashing.
@@ -165,8 +164,7 @@ b) **Loosely Coupled** means components are independent and don't rely heavily o
 
 ---
 
-* ## 💠**What is NOT LLD ?**
-    
+## 💠**What is NOT LLD ?**
 
 Low-Level Design (LLD) focuses on the detailed design and implementation of individual components, but **High-Level Design (HLD)** is different. HLD looks at the overall system architecture and planning. Let's break down what HLD includes:
 
