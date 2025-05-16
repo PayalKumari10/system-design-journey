@@ -11,7 +11,7 @@ tags: blogging, technology, coding, hashnode, system-design, dsa, techblog, tech
 
 ---
 
-> ***NOTE: - <mark>Today marks the beginning of my 8-week System Design journey with Coder Army. I'm journaling each day to capture what I learn, reflect on it, and share it with my network to help others who are new to system design.</mark>***
+> ***NOTE: - <mark>I </mark>*** <mark>started my 8-week system design journey with Coder Army. I will be journaling every day, recording what I learn, reflecting on it, and sharing it with my network to help newcomers to system design.</mark>
 
 ---
 
@@ -191,9 +191,10 @@ An **association** represents a **bi-directional relationship** between two clas
 
 Association types :
 
-1) Class Association : a) Inheritance
-
-2) Object Association : a) Simple Association , b) Aggregation, c) Composition
+1. Class Association : a) Inheritance
+    
+2. Object Association : a) Simple Association , b) Aggregation, c) Composition
+    
 
 * **Depicted as:** A solid line connecting two class boxes in UML.
     
