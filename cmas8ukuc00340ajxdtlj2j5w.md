@@ -1,5 +1,5 @@
 ---
-title: "📅Day 5 - Learn SOLID Design Principles: Detailed Guide and Practical Code Samples part -1."
+title: "📅Week-1 (Day 5) - Learn SOLID Design Principles: Detailed Guide and Practical Code Samples part -1."
 seoTitle: "SOLID Design Principles: Day 5 Guide"
 seoDescription: "Discover SOLID design principles for scalable, maintainable code in object-oriented programming with examples. Enhance your coding skills today!"
 datePublished: Sat May 17 2025 13:09:10 GMT+0000 (Coordinated Universal Time)
