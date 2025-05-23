@@ -1,5 +1,5 @@
 ---
-title: "📅 Day 1 - Introduction to System Design: LLD vs DSA vs HLD 🔥👩‍💻"
+title: "📅Week-1 (Day 1) - Introduction to System Design: LLD vs DSA vs HLD 🔥👩‍💻"
 seoTitle: "My System Design Journey : Real-Life LLD Example You’ll Never Forget"
 seoDescription: "🚀 Curious about how System Design works in real life?
 In this blog, I share my Day 1 learnings from an 8-week journey into System Design."

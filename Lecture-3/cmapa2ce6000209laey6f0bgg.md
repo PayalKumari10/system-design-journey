@@ -1,5 +1,5 @@
 ---
-title: "📅 Day 3 - Understanding Inheritance and Polymorphism in Object-Oriented Programming"
+title: "📅Week-1 (Day 3) - Understanding Inheritance and Polymorphism in Object-Oriented Programming"
 seoTitle: "OOP: Inheritance & Polymorphism"
 seoDescription: "Explore inheritance and polymorphism in OOP using real-world examples and Java to enhance reusability and flexibility"
 datePublished: Thu May 15 2025 11:19:53 GMT+0000 (Coordinated Universal Time)
@@ -11,7 +11,7 @@ tags: oop, technology, coding, oops, system-design, dsa, techblog, technical-wri
 
 ---
 
-> ***NOTE: - <mark>Today marks the beginning of my 8-week System Design journey with Coder Army. I'm journaling each day to capture what I learn, reflect on it, and share it with my network to help others who are new to system design.</mark>***
+> ***NOTE: - <mark>I </mark>*** <mark>started my 8-week system design journey with Coder Army. I will be journaling every day, recording what I learn, reflecting on it, and sharing it with my network to help newcomers to system design.</mark>
 
 # 1) Inheritance
 
@@ -640,7 +640,6 @@ This tells the compiler:
     
     ## 💠 **Protected in Java:**
     
-
 * When working with Object-Oriented Programming in Java, **access modifiers** help us control where our variables and methods can be accessed from. The four access modifiers in Java are:  
     `private`, `default`, `protected`, and `public`.
     
@@ -689,7 +688,7 @@ This tells the compiler:
 
 ### **Day 3 Completed ✅ System Design**
 
-> ***NOTE : - A big thanks to my mentors*** [***<mark>Rohit Negi</mark>***](https://www.linkedin.com/in/rohit-negi9/) ***<mark>Sir </mark> and*** [***<mark>Aditya</mark>***](https://www.linkedin.com/in/adityatandon2/) [***<mark>Sir</mark> fo***](https://www.linkedin.com/in/adityatandon2/)***r launching this amazing <mark>8-week course</mark> absolutely <mark>free</mark> on YouTube via <mark>CoderArmy9 </mark> :-*** [https://www.youtube.com/@CoderArmy9](https://www.youtube.com/@CoderArmy9)[***🙌***](https://www.youtube.com/@CoderArmy9)
+> ***NOTE : - A big thanks to my mentors*** [***<mark>Rohit Negi</mark>***](https://www.linkedin.com/in/rohit-negi9/) ***<mark>Sir </mark> and*** [***<mark>Aditya</mark>***](https://www.linkedin.com/in/adityatandon2/) [***<mark>Sir</mark> fo***](https://www.linkedin.com/in/adityatandon2/)***r launching this amazing <mark>8-week course</mark> absolutely <mark>free</mark> on YouTube via <mark>CoderArmy9 </mark> :-*** [https://www.youtube.com/@CoderArmy9***🙌***](https://www.youtube.com/@CoderArmy9)
 
 👉 **Share this blog with your connections!** Let’s keep learning, growing, and supporting one another on this journey. 🚀
 

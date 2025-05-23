@@ -1,5 +1,5 @@
 ---
-title: "📅Day 4 - Understanding UML Diagrams: Real Examples of Class and Sequence Diagrams"
+title: "📅Week-1 (Day 4) - Understanding UML Diagrams: Real Examples of Class and Sequence Diagrams"
 seoTitle: "UML Diagrams: Class & Sequence Examples"
 seoDescription: "Explore UML diagrams in software design using class and sequence diagrams for improved visualization and collaboration"
 datePublished: Fri May 16 2025 09:56:42 GMT+0000 (Coordinated Universal Time)

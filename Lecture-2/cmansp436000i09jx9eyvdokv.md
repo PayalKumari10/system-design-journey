@@ -1,6 +1,6 @@
 ---
-title: "📅Day 2 -  Real-World Examples of OOP Concepts: Understanding Abstraction and Encapsulation 🔥👩‍💻"
-seoTitle: "OOP Concepts: Understanding Abstraction and Encapsulation "
+title: "📅Week 1 (Day 2) -  Real-World Examples of OOP Concepts: Understanding Abstraction and Encapsulation 🔥👩‍💻"
+seoTitle: "OOP Concepts: Understanding Abstraction and Encapsulation"
 seoDescription: "Learn the core Object-Oriented Programming concepts of Abstraction and Encapsulation with real-world examples."
 datePublished: Wed May 14 2025 10:25:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmansp436000i09jx9eyvdokv
@@ -11,7 +11,7 @@ tags: code, development, developer, hashnode, oops, system-design, object-orient
 
 ---
 
-> ***NOTE: - <mark>My 8-week System Design journey with Coder Army. I'm journaling each day to capture what I learn, reflect on it, and share it with my network to help others who are new to system design.</mark>***
+> ***NOTE: - <mark>I </mark>*** <mark>started my 8-week system design journey with Coder Army. I will be journaling every day, recording what I learn, reflecting on it, and sharing it with my network to help newcomers to system design.</mark>
 
 ## 💠 What is Programming Language Evolution?
 
@@ -79,7 +79,8 @@ stir();
 
 ### 💠 Features Introduced:
 
-* ### Functions for code reuse  
+* ### Functions for code reuse
+    
     (Hindi: Code ko baar-baar use karne ke liye functions aaye.)
     
 * Control Structures: if-else, loops  
@@ -98,7 +99,8 @@ stir();
     (Hindi: Data security ka issue tha – sab kuch globally accessible tha.)
     
 
-### 💠 Real-Life Analogy:  
+### 💠 Real-Life Analogy:
+
 You can cook multiple recipes using a recipe book (functions), but you still have no way to store who is the chef or assign kitchen roles (objects, permissions).
 
 📌 Why It Matters?
@@ -416,7 +418,7 @@ Car class will contain:
 
 2️⃣ Data Security
 
-* Prevent direct access to sensitive data fields.  
+* Prevent direct access to sensitive data fields.
     
 * Example: You can view the car’s mileage (odometer) but can’t reset it.
     
@@ -482,7 +484,7 @@ public class Car {
 
 ### 💠Getters & Setters: Controlled Access
 
-* Getters allow safe read access.  
+* Getters allow safe read access.
     
 * Setters allow controlled modifications with validations.
     
