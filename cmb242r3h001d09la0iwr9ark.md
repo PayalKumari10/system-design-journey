@@ -1,11 +1,11 @@
 ---
-title: "📅Week -2 (Day4) - Understanding the Strategy Design Pattern with a Real-World Example in Low-Level Design 👩‍💻"
+title: "📅Week -2 (Day4) - Factory Design Pattern | Simple, Factory Method & Abstract Factory with Real-Life Examples (Low-Level Design)👩‍💻"
 seoTitle: "Factory Design pattern with real-world example"
 seoDescription: "Explore the Factory Design Pattern in Low-Level Design to enhance flexibility, reduce coupling, and simplify object creation with real-world examples"
 datePublished: Sat May 24 2025 10:53:15 GMT+0000 (Coordinated Universal Time)
 cuid: cmb242r3h001d09la0iwr9ark
-slug: week-2-day4-understanding-the-strategy-design-pattern-with-a-real-world-example-in-low-level-design
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748073510572/f1c7087f-f43f-4bb5-b43c-85327f4530f4.png
+slug: week-2-day4-factory-design-pattern-simple-factory-method-and-abstract-factory-with-real-life-examples-low-level-design
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748084667668/73a5be20-667e-4289-bc97-3da6e73b8a27.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748083890421/e1dcc972-b5cb-4796-84d3-3d12310a952b.png
 tags: cpp, blogging, java, technology, hashnode, system-design, dsa, techblog, coding-challenge, coding-journey, low-level-design, lld, coderarmy, 8weekslldchallenge, payalkumari11
 
