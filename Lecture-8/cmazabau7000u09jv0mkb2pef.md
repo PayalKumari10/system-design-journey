@@ -1,5 +1,5 @@
 ---
-title: "📅Week 2 Day 3 - Understanding the Strategy Design Pattern with a Practical Example for Low-Level Design"
+title: "📅Week-2 (Day 3) - Understanding the Strategy Design Pattern with a Practical Example for Low-Level Design 👩‍💻"
 seoTitle: "Strategy Design Pattern Guide"
 seoDescription: "Explore the Strategy Design Pattern with real-life examples and practical uses in low-level system design"
 datePublished: Thu May 22 2025 11:24:33 GMT+0000 (Coordinated Universal Time)
@@ -11,7 +11,7 @@ tags: blogging, java, technology, coding, tech, hashnode, system-design, dsa, co
 
 ---
 
-***NOTE: - <mark>I started my 8-week system design journey with Coder Army. I will be journaling every day, recording what I learn, reflecting on it, and sharing it with my network to help newcomers to system design.</mark>***
+> ***NOTE: - <mark>I started my 8-week system design journey with Coder Army. I will be journaling every day, recording what I learn, reflecting on it, and sharing it with my network to help newcomers to system design.</mark>***
 
 ## 💠What is the Strategy Design Pattern?
 
