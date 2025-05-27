@@ -11,6 +11,8 @@ tags: cpp, blogging, java, technology, hashnode, system-design, dsa, coder, codi
 
 ---
 
+> ***NOTE: - <mark>I started my 8-week system design journey with Coder Army. I will be journaling every day, recording what I learn, reflecting on it, and sharing it with my network to help newcomers to system design.</mark>***
+
 ## 📌 Introduction
 
 Welcome to **Week 2** of my Low-Level Design (LLD) journey!  
