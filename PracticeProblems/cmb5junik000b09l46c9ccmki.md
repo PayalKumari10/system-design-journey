@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Practice Low-Level Design with Problems for Day 6 and 7"
+title: "📅Week 2: Practice Low-Level Design with Problems for Day 6 and 7."
 seoTitle: "Low-Level Design Practice: Week-2 (Days 6 & 7)"
 seoDescription: "Week 2: Practice Low-Level Design with Problems for Day 6 and 7"
 datePublished: Mon May 26 2025 20:38:09 GMT+0000 (Coordinated Universal Time)
