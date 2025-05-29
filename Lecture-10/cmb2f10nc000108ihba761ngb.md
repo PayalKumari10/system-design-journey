@@ -301,7 +301,7 @@ public static Singleton getInstance() {
 * In **unit tests**, where singletons might introduce **global state issues**.
     
 
-> 📍*“Jahaan pe har object ka alag behavior ho, wahan Singleton avoid karo.”*
+> 📍\*“Jahaan pe har object ka alag behavior ho, wahan Singleton avoid karo.”\*
 
 ## 💠Common Pitfalls & Bottlenecks (Quick Summary)
 
@@ -354,5 +354,7 @@ Managing Singleton across multiple threads/servers becomes tricky in large-scale
 ✍️ [***Payal Kumari***](https://www.linkedin.com/in/payalkumari10/) 👩‍💻 [**Github**](https://github.com/PayalKumari10)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748076871803/86ddb6dc-a4f6-48d8-b81e-09494a1c902f.jpeg align="center")
+
+**Jai Hind 🇮🇳 | #CoderArmy #LearningInPublic #SystemDesign #TechForAll #MentorshipMatters** [**#8weeksLLdChallenge**](https://www.youtube.com/hashtag/8weekslldchallenge) [**#LowLevelDesign**](https://www.youtube.com/hashtag/lowleveldesign) [**#LLD**](https://www.youtube.com/hashtag/lld) **👩‍💻**
 
 %[https://youtu.be/CD3meit-WDc?si=DvK-8BR4cG84LcTK]
