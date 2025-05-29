@@ -21,7 +21,7 @@ tags: cpp, java, technology, coding, system-design, dsa, techblog, coding-challe
 
 > Decorator Pattern ek aisa design hai jisme aap kisi object ke upar naye features ya behavior add kar sakte ho **bina uske original code ko chhue**.
 
-👉 Jaise ek aadmi ne jacket pehna, phir topi lagayi, phir sunglasses — ek ke baad ek cheezein add hoti gayi!
+(Hindi : Jaise ek aadmi ne jacket pehna, phir topi lagayi, phir sunglasses — ek ke baad ek cheezein add hoti gayi!)
 
 ## 💠Real-life Analogy: Mario Game
 
