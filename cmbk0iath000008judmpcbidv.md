@@ -1,5 +1,5 @@
 ---
-title: "Week-4 (Day3) - Step-by-Step Guide to Creating a Spotify-Style Music App"
+title: "📅Week-4 (Day3) - Step-by-Step Guide to Creating a Spotify-Style Music App"
 seoTitle: "Guide to Create Spotify Music App LLD System Design"
 seoDescription: "Create a Spotify-style app using system design principles. Understand requirements with a step-by-step guide"
 datePublished: Thu Jun 05 2025 23:33:13 GMT+0000 (Coordinated Universal Time)
