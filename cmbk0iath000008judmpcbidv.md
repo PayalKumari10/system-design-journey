@@ -1,10 +1,10 @@
 ---
-title: "Week-4 (Day4) - Step-by-Step Guide to Creating a Spotify-Style Music App"
+title: "Week-4 (Day3) - Step-by-Step Guide to Creating a Spotify-Style Music App"
 seoTitle: "Guide to Create Spotify Music App LLD System Design"
 seoDescription: "Create a Spotify-style app using system design principles. Understand requirements with a step-by-step guide"
 datePublished: Thu Jun 05 2025 23:33:13 GMT+0000 (Coordinated Universal Time)
 cuid: cmbk0iath000008judmpcbidv
-slug: week-4-day4-step-by-step-guide-to-creating-a-spotify-style-music-app
+slug: week-4-day3-step-by-step-guide-to-creating-a-spotify-style-music-app
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749160364085/91406476-618d-48f8-bbf2-6db6762ee262.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1749166340285/732d659f-b2d9-4274-9bee-be70b154cd95.png
 tags: cpp, java, technology, coding, hashnode, system-design, dsa, techblog, coding-challenge, technical-writing-1, coding-journey, low-level-design, lld, coderarmy, payalkumari11
