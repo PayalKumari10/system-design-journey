@@ -61,8 +61,6 @@ Each week introduces one key system design concept, explained with real-life, ea
    git clone https://github.com/PayalKumari10/system-design-journey.git
 
 
-
-
 🙌 Let’s Connect & Support
 💬 Got questions or feedback?
 Reach out on LinkedIn – [Payal Kumari](https://www.linkedin.com/in/payalkumari10/)
