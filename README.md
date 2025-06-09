@@ -60,7 +60,11 @@ Each week introduces one key system design concept, explained with real-life, ea
 1. Clone the repo:
    ```bash
    git clone https://github.com/PayalKumari10/system-design-journey.git
+<<<<<<< HEAD
    ```
+=======
+
+>>>>>>> 8bdaecec13916e9d3522cc84de1d7e433e599eb2
 
 🙌 Let’s Connect & Support
 💬 Got questions or feedback?
