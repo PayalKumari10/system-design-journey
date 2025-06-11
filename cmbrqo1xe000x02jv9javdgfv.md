@@ -276,4 +276,6 @@ class TeamLead implements LeaveApprover {
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749633344625/92845077-6d27-443d-9f52-8af59e98014b.jpeg align="center")
 
+**Jai Hind 🇮🇳 | #CoderArmy #LearningInPublic #SystemDesign #TechForAll #MentorshipMatters** [**#8weeksLLdChallenge**](https://www.youtube.com/hashtag/8weekslldchallenge) [**#LowLevelDesign**](https://www.youtube.com/hashtag/lowleveldesign) [**#LLD**](https://www.youtube.com/hashtag/lld) **👩‍💻**
+
 %[https://youtu.be/LXVKB6deQMo?si=64jwVsf0GOFgSSIj]
