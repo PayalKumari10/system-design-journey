@@ -2,7 +2,7 @@
 title: "📅Week-5 (Day-3) - Build Payment Gateway System | System Design"
 seoTitle: "Payment Gateway System Design Guide"
 seoDescription: "Explore building a scalable payment gateway system with design patterns and retry strategies, part of an 8-week system design course"
-datePublished: Tue Jun 10 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Jun 11 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmbuhviq4000502ju87wufqib
 slug: week-5-day-3-build-payment-gateway-system-system-design
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749790854514/85ef59c6-eeee-4c81-946b-20b59b4b21d2.png
