@@ -403,7 +403,7 @@ public class PaymentGatewayApplication {
 }
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749799618661/7c17947c-d3d2-4ca3-a07a-f33d0dc480fe.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749833537381/e2b937b8-5dc6-4c95-95f7-400229fe46c3.png align="center")
 
 ## 📚 Homework: Retry Strategy + Subscription Flow
 
