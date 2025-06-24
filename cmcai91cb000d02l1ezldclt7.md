@@ -111,9 +111,9 @@ That’s the beauty of the Iterator Pattern.
     
     ## 💠UML Designs
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750767973928/9219c804-40ea-468a-b8b0-3f5e25710623.jpeg align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750774154933/f0db73cd-601a-4c44-bfd1-f08c072f2925.png align="center")
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750768017711/4f716386-690c-4b9e-9348-53940ef26cb8.jpeg align="center")
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750774168879/f8c96fea-f1a9-4cdd-96f0-b5b79ec1210c.png align="center")
     
     ```java
     import java.util.*;
