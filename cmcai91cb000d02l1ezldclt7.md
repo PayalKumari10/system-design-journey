@@ -1,5 +1,5 @@
 ---
-title: "Week-6 (Day-4) - Understanding the Iterator Pattern: System Design with UML and Code"
+title: "📅Week-6 (Day-4) - Understanding the Iterator Pattern: System Design with UML and Code"
 seoTitle: "Iterator Pattern: System Design Simplified"
 seoDescription: "Explore the Iterator Pattern with UML and code examples, its use cases, and implementation for efficient data traversal in system design"
 datePublished: Tue Jun 24 2025 12:31:54 GMT+0000 (Coordinated Universal Time)
