@@ -35,7 +35,6 @@ At its core, Tinder has a few main features:
 
 To design this cleanly and scalably, we use well-known design patterns. Let’s break down how:
 
-##   
 💠NotificationService (Observer Pattern)
 
 For real-time updates like matches, likes, and superlikes.
@@ -1010,7 +1009,5 @@ public class TinderClone {
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750355002153/8c0b7901-27c3-48ff-8cf9-371564110bcc.jpeg align="center")
 
 **Jai Hind 🇮🇳 | #CoderArmy #LearningInPublic #SystemDesign #TechForAll #MentorshipMatters** [**#8weeksLLdChallenge**](https://www.youtube.com/hashtag/8weekslldchallenge) [**#LowLevelDesign**](https://www.youtube.com/hashtag/lowleveldesign) [**#LLD**](https://www.youtube.com/hashtag/lld) **👩‍💻**
-
-  
 
 %[https://youtu.be/IcgLSo6--ok?si=CjbC8bM3DYhzxvcp]
