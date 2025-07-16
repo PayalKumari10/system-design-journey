@@ -12,7 +12,7 @@ tags: code, java, technology, hashnode, dsa, coding-challenge, codenewbies, tech
 ---
 
 > Note : **<mark>Started my 27-day DSA journey with Striver’s SDE Sheet!</mark>**  
-> <mark>I will be </mark> ***<mark>journaling every day</mark>*** <mark> — recording what I learn, reflecting on it, and sharing it with my network to help </mark> ***<mark>fellow learners</mark>*** <mark> and </mark> ***<mark>aspiring developers..</mark>*** <mark> Learning through videos, resources, and the internet — simplifying logic in my own way with real-world connections. Sharing 2 questions daily: brute-force to optimal, clean Java code, time &amp; space complexity, and key patterns.</mark>
+> <mark>I will be </mark> ***<mark>journaling every day</mark>*** <mark>— recording what I learn, reflecting on it, and sharing it with my network to help </mark> ***<mark>fellow learners</mark>*** <mark>and </mark> ***<mark>aspiring developers..</mark>*** <mark>Learning through videos, resources, and the internet — simplifying logic in my own way with real-world connections. Sharing 2 questions daily: brute-force to optimal, clean Java code, time &amp; space complexity, and key patterns.</mark>
 
 This blog series is for **anyone preparing for coding interviews** — whether you’re a beginner or a revision warrior. Let’s grow together! 🚀
 
@@ -41,7 +41,7 @@ An **array** is a **linear data structure** used to store a collection of elemen
     System.out.println(arr[2]);  // Output: 3
     ```
     
-    <mark><br>Today I’ve started with </mark> **<mark>Arrays – Part 1</mark>** <mark> and solved the 1st</mark> **<mark> two questions</mark>**<mark>:</mark>
+    <mark><br>Today I’ve started with </mark> **<mark>Arrays – Part 1</mark>** <mark>and solved the 1st</mark> **<mark>two questions</mark>**<mark>:</mark>
     
 
 1️⃣ **Set Matrix Zero**  
@@ -112,7 +112,6 @@ Imagine a **hospital ward** represented as a matrix:
     
 * `0` = COVID Positive
     
-      
     **<mark>Rule</mark>:** If any patient is COVID positive, we seal the **entire row and column** for safety.
     
     **(Hindi: But** agar turant har infected patient ka row/column seal kar diya, toh naye 0 doosri rows/columns ko bhi galat affect kar denge.)
@@ -559,6 +558,10 @@ No extra space used apart from the result list.
 If you're just starting your DSA journey like me, don't worry if you don’t get it perfect the first time.  
 **Visualize → Dry Run → Optimize.**  
 Stay consistent, and let’s crack every problem from brute to optimal! 💪
+
+### 🙏 Special Thanks
+
+A heartfelt thank you to [**<mark>Rajvikraaditya Sir</mark>**](https://www.linkedin.com/in/rajstriver/) for creating and sharing such an incredible DSA resource with the community <mark>(takeuforward)</mark>. Your structured approach has made DSA more accessible and less intimidating for thousands of learners like me.
 
 If this helped you, do share it with your fellow DSA learners.  
 Comment with your doubts — I’d love to answer and grow together 🌱
