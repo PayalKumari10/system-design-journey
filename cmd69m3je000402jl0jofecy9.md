@@ -432,6 +432,14 @@ public class Solution {
 
 📍Time complexity (TC)
 
+```java
+for (int i = 0; i < numRows; i++) {
+    for (int j = 0; j <= i; j++) {
+        row.add((int) nCr(i, j)); // nCr takes O(r) time
+    }
+}
+```
+
 ### `nCr(i, j)` takes `O(min(j, i-j))` = at most `O(i/2)`
 
 Worst-case estimate:
@@ -442,7 +450,7 @@ Worst-case estimate:
     
 * So, total time =
     
-    ∑i=0n−1∑j=0iO(i)=∑i=0n−1O(i2)=O(n3)\\sum\_{i=0}^{n-1} \\sum\_{j=0}^{i} O(i) = \\sum\_{i=0}^{n-1} O(i^2) = O(n^3)i=0∑n−1​j=0∑i​O(i)=i=0∑n−1​O(i2)=O(n3)
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752731919026/a0d90fe9-139e-4d00-bd43-b63c319d0c8f.png align="center")
     
 
 ✅ But with the optimized `nCr`, actual time is slightly better:
@@ -454,7 +462,7 @@ Worst-case estimate:
 
 * Output: storing Pascal's Triangle → total number of elements =
     
-    1+2+3+...+n=n(n+1)2=O(n2)1 + 2 + 3 + ... + n = \\frac{n(n+1)}{2} = O(n^2)1+2+3+...+n=2n(n+1)​=O(n2)
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752731959464/9e6dd5ce-5bd8-4b4f-aa6f-a7b3a14650af.png align="center")
     
 * Extra variables: `long res`, loop vars → negligible
     
@@ -506,7 +514,7 @@ class Solution {
 
 This uses the **Pascal’s Triangle property**:
 
-Pascal\[i\]\[j\]=Pascal\[i−1\]\[j−1\]+Pascal\[i−1\]\[j\]\\text{Pascal}\[i\]\[j\] = \\text{Pascal}\[i-1\]\[j-1\] + \\text{Pascal}\[i-1\]\[j\]Pascal\[i\]\[j\]=Pascal\[i−1\]\[j−1\]+Pascal\[i−1\]\[j\]
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752732091861/7d375d2c-4850-4e1e-99b2-0dfe55502bfb.png align="center")
 
 With the base cases:
 
@@ -522,14 +530,14 @@ With the base cases:
 * Total number of operations:
     
 
-1+2+3+...+n=n(n+1)2=O(n2)1 + 2 + 3 + ... + n = \\frac{n(n+1)}{2} = O(n^2)1+2+3+...+n=2n(n+1)​=O(n2)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752732197108/364a848f-da77-48a5-92e2-a60bb8c4a728.png align="center")
 
 📍 **Space Complexity (SC):**
 
 * You're storing the entire triangle:
     
 
-O(n2)O(n^2)O(n2)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752732268843/fe99f96f-56dd-486e-8b95-908f94a62ecf.png align="center")
 
 No extra space used apart from the result list.
 
